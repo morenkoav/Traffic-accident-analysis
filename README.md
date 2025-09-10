@@ -20,8 +20,11 @@
 
 Прототип дашборда: [ссылка](https://datalens.yandex/xvrr928ale9ci)
 
-* [Полная версия тетрадки]()
-* [Сокращенная версия тетрадки]()
+**Содержание репозитория:**
+* [Полная версия тетрадки](https://github.com/morenkoav/Traffic-accident-analysis/blob/main/TAA_main.ipynb)
+* [Сокращенная версия тетрадки](https://github.com/morenkoav/Traffic-accident-analysis/blob/main/TAA_main_short_version.ipynb)
+
+* [Скрипты SQL для загрузки данных в БД](https://github.com/morenkoav/Traffic-accident-analysis/blob/main/SQL_scripts.ipynb)
 
 
 ## Основные выводы:
